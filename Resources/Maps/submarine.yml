@@ -191603,7 +191603,7 @@ entities:
     - type: Transform
       pos: -13.5,-11.5
       parent: 2
-- proto: LockerQuarterMasterFilled
+- proto: LockerQuarterMasterFilledHardsuit
   entities:
   - uid: 15891
     components:
